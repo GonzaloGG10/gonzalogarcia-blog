@@ -15,5 +15,5 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker image
-      run: docker build -t tag-prueba2:v1.5.1 -f Dockerfile ..    #docker build .. --file Dockerfile --tag prueba2:$(date +%s)
+      run: docker build -t tag-prueba2:v1.5.1 -f Dockerfile .    #docker build .. --file Dockerfile --tag prueba2:$(date +%s)
 

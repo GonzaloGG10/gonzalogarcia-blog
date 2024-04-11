@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:8080/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Apr 2024 09:22:52 +0200</lastBuildDate>
+    <atom:link href="http://localhost:8080/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segundo Post</title>
+      <link>http://localhost:8080/posts/segundo-post/</link>
+      <pubDate>Tue, 09 Apr 2024 09:22:52 +0200</pubDate>
+      <guid>http://localhost:8080/posts/segundo-post/</guid>
+      <description>En un tranquilo rincón del universo, donde las estrellas danzan en la oscuridad del espacio infinito, se encuentra un pequeño planeta llamado Veridian. Sus paisajes están adornados por vastas praderas verdes, montañas majestuosas y océanos cristalinos que reflejan la luz de tres soles brillantes. En este mundo, la vida florece en todas sus formas, desde las criaturas más diminutas hasta las más imponentes bestias que surcan los cielos.&#xA;En el corazón de Veridian se erige una ciudad ancestral, conocida como Avaloria, donde la magia y la tecnología convergen en armonía.</description>
+    </item>
+    <item>
+      <title>Primer Post</title>
+      <link>http://localhost:8080/posts/primer-post/</link>
+      <pubDate>Tue, 09 Apr 2024 09:21:21 +0200</pubDate>
+      <guid>http://localhost:8080/posts/primer-post/</guid>
+      <description>En un rincón del universo, donde las estrellas danzan en la oscuridad del espacio infinito, se encuentra un pequeño planeta llamado Veridian. Sus paisajes están adornados por vastas praderas verdes, montañas majestuosas y océanos cristalinos que reflejan la luz de tres soles brillantes. En este mundo, la vida florece en todas sus formas, desde las criaturas más diminutas hasta las más imponentes bestias que surcan los cielos.&#xA;En el corazón de Veridian se erige una ciudad ancestral, conocida como Avaloria, donde la magia y la tecnología convergen en armonía.</description>
+    </item>
+    <item>
+      <title>Entradagonzalo</title>
+      <link>http://localhost:8080/blog/entradagonzalo/</link>
+      <pubDate>Mon, 08 Apr 2024 13:37:04 +0200</pubDate>
+      <guid>http://localhost:8080/blog/entradagonzalo/</guid>
+      <description>Hola a todos este es mi primer blo donde os hablaré un poco más sobre mi.&#xA;En un tranquilo rincón del universo, donde las estrellas danzan en la oscuridad del espacio infinito, se encuentra un pequeño planeta llamado Veridian. Sus paisajes están adornados por vastas praderas verdes, montañas majestuosas y océanos cristalinos que reflejan la luz de tres soles brillantes. En este mundo, la vida florece en todas sus formas, desde las criaturas más diminutas hasta las más imponentes bestias que surcan los cielos.</description>
+    </item>
+  </channel>
+</rss>

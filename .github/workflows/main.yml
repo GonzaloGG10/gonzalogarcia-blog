@@ -24,7 +24,7 @@ jobs:
         with:
           registry: ghcr.io
           username: GonzaloGG10
-          password: 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
+          password: ${{secrets.TOKEN}}
           
       - name: 'Build Inventory Image'
         run: |

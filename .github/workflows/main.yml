@@ -24,8 +24,8 @@ jobs:
         with:
           registry: ghcr.io
           username: GonzaloGG10
-          password: ${{secrets.TOKEN}}
-
+          password: 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
+          
       - name: 'Build Inventory Image'
         run: |
           docker build . --tag ghcr.io/gonzalogg10/prueba2:latest

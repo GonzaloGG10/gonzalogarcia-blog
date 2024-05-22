@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Blogs on My New Hugo Site</title>
-        <link>http://localhost:8080/blog/</link>
-        <description>Recent content in Blogs on My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Mon, 08 Apr 2024 13:37:04 +0200</lastBuildDate><atom:link href="http://localhost:8080/blog/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Entradagonzalo</title>
-        <link>http://localhost:8080/blog/entradagonzalo/</link>
-        <pubDate>Mon, 08 Apr 2024 13:37:04 +0200</pubDate>
-        
-        <guid>http://localhost:8080/blog/entradagonzalo/</guid>
-        <description>&lt;p&gt;Hola a todos este es mi primer blo donde os hablaré un poco más sobre mi.&lt;/p&gt;
-&lt;p&gt;En un tranquilo rincón del universo, donde las estrellas danzan en la oscuridad del espacio infinito, se encuentra un pequeño planeta llamado Veridian. Sus paisajes están adornados por vastas praderas verdes, montañas majestuosas y océanos cristalinos que reflejan la luz de tres soles brillantes. En este mundo, la vida florece en todas sus formas, desde las criaturas más diminutas hasta las más imponentes bestias que surcan los cielos.&lt;/p&gt;
-&lt;p&gt;En el corazón de Veridian se erige una ciudad ancestral, conocida como Avaloria, donde la magia y la tecnología convergen en armonía. Sus torres alcanzan las nubes, y sus calles están llenas de gente de todas las razas y especies, comerciando, aprendiendo y compartiendo historias bajo los cielos estrellados. En los confines de este planeta, exploradores audaces emprenden viajes hacia lo desconocido, buscando secretos olvidados y nuevas fronteras por descubrir.&lt;/p&gt;
-&lt;p&gt;Pero no todo es paz en Veridian; sombras se agitan en los rincones más oscuros del cosmos. Una antigua profecía habla de un mal antiguo que amenaza con sumir al mundo en la oscuridad eterna. Los sabios susurran sobre héroes que se alzarán para enfrentar esta oscuridad y restaurar el equilibrio perdido.&lt;/p&gt;
-&lt;p&gt;En este momento de incertidumbre, los destinos de innumerables almas se entrelazan en una red de intrigas y desafíos. Los corazones valientes se preparan para la batalla que se avecina, mientras que otros buscan su propio camino en un mundo lleno de peligros y oportunidades. En Veridian, el destino aguarda a aquellos lo suficientemente valientes para perseguir sus sueños y desafiar el destino mismo.&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Blogs on My New Hugo Site</title>
+    <link>http://localhost:8080/blog/</link>
+    <description>Recent content in Blogs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Apr 2024 13:37:04 +0200</lastBuildDate>
+    <atom:link href="http://localhost:8080/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entradagonzalo</title>
+      <link>http://localhost:8080/blog/entradagonzalo/</link>
+      <pubDate>Mon, 08 Apr 2024 13:37:04 +0200</pubDate>
+      <guid>http://localhost:8080/blog/entradagonzalo/</guid>
+      <description>Hola a todos este es mi primer blo donde os hablaré un poco más sobre mi.&#xA;En un tranquilo rincón del universo, donde las estrellas danzan en la oscuridad del espacio infinito, se encuentra un pequeño planeta llamado Veridian. Sus paisajes están adornados por vastas praderas verdes, montañas majestuosas y océanos cristalinos que reflejan la luz de tres soles brillantes. En este mundo, la vida florece en todas sus formas, desde las criaturas más diminutas hasta las más imponentes bestias que surcan los cielos.</description>
+    </item>
+  </channel>
 </rss>

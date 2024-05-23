@@ -1,6 +1,6 @@
 ---
 
-title: "Entradagonzal"
+title: "Entradagonzalo"
 
 date: 2024-04-08T13:37:04+02:00
 

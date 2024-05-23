@@ -22,12 +22,12 @@ jobs:
       - name: Login to GitHub Container Registry
         run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
 
-            build_and_push:
-                name: Build image & push
-                runs-on: ubuntu-latest
-                permissions:
-                  contents: read
-                  packages: write
+        build_and_push:
+            name: Build image & push
+            runs-on: ubuntu-latest
+            permissions:
+                contents: read
+                packages: write
 
       - name: 'Build Inventory Image'
         run: |

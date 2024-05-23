@@ -18,15 +18,13 @@ jobs:
       packages: write
 
     steps:
-      - name: 'Checkout GitHub Action'
+      - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Login to GitHub Container Registry
-        run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
+      - name: Log in to GitHub Container Registry
+        run: echo "${{ secrets.GHCR_PAT }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
 
-      - name: 'Build and Push Docker Image'
+      - name: Build and push Docker image
         run: |
           docker build . --tag ghcr.io/gonzalogg10/prueba2:latest
           docker push ghcr.io/gonzalogg10/prueba2:latest
-
-

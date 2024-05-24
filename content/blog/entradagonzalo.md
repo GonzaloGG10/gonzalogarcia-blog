@@ -14,7 +14,7 @@ draft: false
 
 ---
 
-Hola a todos este es mi primer blo donde os hablaré un poco más sobre mi.
+Hola a todos este es mi primer blog donde os hablaré un poco más sobre mi.
 
 En un tranquilo rincón del universo, donde las estrellas danzan en la oscuridad del espacio infinito, se encuentra un pequeño planeta llamado Veridian. Sus paisajes están adornados por vastas praderas verdes, montañas majestuosas y océanos cristalinos que reflejan la luz de tres soles brillantes. En este mundo, la vida florece en todas sus formas, desde las criaturas más diminutas hasta las más imponentes bestias que surcan los cielos.
 

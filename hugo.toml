@@ -3,3 +3,22 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-theme-stack"
 
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = -100
+        pre = "home"
+    [[menu.main]]
+        identifier = "sobre-mi"
+        name = "Sobre mi"
+        url = "content/posts/primer-post.md"
+        weight = -90
+        pre = "user"
+    [[menu.main]]
+        identifier = "archives"
+        name = "Archivos"
+        url = "archives"
+        weight = -70
+        pre = "archives"

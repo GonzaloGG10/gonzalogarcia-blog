@@ -1,7 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'El Blog de Gonzalo'
 theme = "hugo-theme-stack"
+disqusShortname = "el-blog-de-gonzalo"
 
 [menu]
     [[menu.main]]
@@ -12,13 +13,13 @@ theme = "hugo-theme-stack"
         pre = "home"
     [[menu.main]]
         identifier = "sobre-mi"
-        name = "Sobre mi"
-        url = "content/posts/primer-post.md"
+        name = "LinkedIn"
+        url = "https://www.linkedin.com/in/gonzalo-garc%C3%ADa-vega-168a59263/"
         weight = -90
         pre = "user"
     [[menu.main]]
         identifier = "archives"
-        name = "Archivos"
-        url = "archives"
+        name = "Github"
+        url = "https://github.com/GonzaloGG10?tab=repositories"
         weight = -70
         pre = "archives"

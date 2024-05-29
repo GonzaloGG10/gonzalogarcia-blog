@@ -1,3 +1,9 @@
++++
+title = 'Un poco sobre mi'
+date = 2024-05-28T09:22:52+02:00
+draft = false
++++
+
 Un poco sobre mi
 
 ¡Hola, mundo! Bienvenid@ a mi página personal, ya que estás por aquí, permíteme que te cuente un poco sobre mi, y un poco sobre el blog 😁
